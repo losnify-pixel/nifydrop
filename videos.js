@@ -93,11 +93,11 @@ window.NIFY_VIDEOS = [
   },
   {
     "id": 11,
-    "visible": false,
-    "title": "",
-    "description": "",
-    "image": "",
-    "video": "",
+    "visible": true,
+    "title": "Видео 11",
+    "description": "Видео-эдит посвящённый машине Юры Волкова",
+    "image": "11.png",
+    "video": "11.mp4",
     "url": ""
   },
   {
