@@ -30,10 +30,10 @@ window.NIFY_NEWS = [
   },
   {
     "id": 4,
-    "visible": false,
-    "title": "",
-    "text": "",
-    "date": "",
+    "visible": true,
+    "title": "Новое видео на аккаунте! ",
+    "text": "Новое видео-эдит уже на аккаунте и на сайте!",
+    "date": "NEW VIDEO",
     "image": "",
     "audio": ""
   },
